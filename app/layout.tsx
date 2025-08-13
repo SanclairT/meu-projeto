@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "ERP Sistema - Vendas, Marketing e Financeiro",
   description: "Sistema ERP completo para gestão de vendas, marketing e financeiro",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({

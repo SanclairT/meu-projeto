@@ -77,7 +77,7 @@ export default function SignUpForm() {
               </SelectTrigger>
               <SelectContent>
                 <SelectItem value="vendedor">Vendedor</SelectItem>
-                <SelectItem value="gerente">Gerente</SelectItem>
+                <SelectItem value="financeiro">Financeiro</SelectItem>
                 <SelectItem value="admin">Administrador</SelectItem>
               </SelectContent>
             </Select>
